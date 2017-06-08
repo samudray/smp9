@@ -11,8 +11,8 @@
       </li>
       <li><a href="#">Akademik</a>
         <ul>
-      	  <li><a href="<?php echo base_url()."index.php/welcome/agenda"; ?>">Agenda Kegiatan</a></li>
-		  <li><a href="<?php echo base_url()."index.php/welcome/pengumuman"; ?>">Pengumuman</a></li>
+      	  <li><a href="<?php echo base_url()."index.php/welcome/pengumuman"; ?>">Pengumuman</a></li>
+		  <li><a href="<?php echo base_url()."index.php/welcome/agenda"; ?>">Agenda Kegiatan</a></li>
         </ul>
       </li>
       <li><a href="<?php echo base_url()."index.php/welcome/gallery"; ?>">Gallery</a> </li>
